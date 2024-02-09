@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 
 class About extends React.Component {
     render() {
@@ -11,9 +11,9 @@ class About extends React.Component {
                         applications, and APIs using various programming languages including HTML5, CSS3, JavaScript,
                         SQL, MongoDB, Firebase, and React
                         along with the use of agile methodologies such as Scrum.
-                    </p>  
+                    </p>
                     <a href={process.env.PUBLIC_URL + "/resume.pdf"} download>
-                    Download Resume
+                        Download Resume
                     </a>
                 </div>
             </div>

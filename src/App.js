@@ -10,15 +10,15 @@ import Footer from './Footer';
 
 
 class App extends Component {
-  render(){
+  render() {
     return (
       <>
-      <HeroSection />
-      <About /> 
-      <br/>
-      <Skills/>
-      <Portfolio/>
-      <Footer/>
+        <HeroSection />
+        <About />
+        <br />
+        <Skills />
+        <Portfolio />
+        <Footer />
       </>
     );
   }

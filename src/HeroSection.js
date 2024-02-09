@@ -10,7 +10,7 @@ class HeroSection extends React.Component {
                     <div className="text-overlay">
                         <h1 id="title" className="">Hossam Hassan</h1>
                         <h4>Full Stack Web Developer</h4>
-                        <br/>
+                        <br />
                         <MyButton variant="outline-light">Contact Me</MyButton>
                     </div>
                 </div>
